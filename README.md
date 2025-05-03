@@ -9,7 +9,7 @@ Right now, I'm focusing on mastering **HTML**, **CSS**, and **JavaScript**. I'm 
 - 🎨 [Random Joke Generator](https://github.com/JonierPachon/random-joke-generator)  
 A simple but fun JavaScript app that fetches random jokes using an API. Great practice for working with the DOM and `fetch()`.
 
-- 🧩 [Personal Portfolio (WIP)](https://github.com/JonierPachon/portfolio)  
+- 🧩 [Personal Portfolio (WIP)](https://github.com/JonierPachon/JonierPachon-web-portfolio)  
 Originally based on a YouTube tutorial, now being personalized to better reflect my style, goals, and personality.
 
 ## 🛠️ Tech Stack
