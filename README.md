@@ -22,7 +22,8 @@ You can check them all out in my repositories 👉 [See my projects](https://git
 ## 📫 Let's Connect!
 I'm always open to feedback, collaboration, or just a good chat about code.
 
-- [LinkedIn](https://www.linkedin.com/in/jonier-elian-pachon-delgado-8211841ba/)
+<-- [LinkedIn](https://www.linkedin.com/in/jonier-elian-pachon-delgado-8211841ba/)-->
+- <a href="https://www.linkedin.com/in/jonier-elian-pachon-delgado-8211841ba/" target="_blank">LinkedIn</a>
 - [Portfolio](https://funny-rabanadas-625f53.netlify.app/)
 
 ---
