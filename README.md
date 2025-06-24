@@ -1,28 +1,52 @@
-# 👋 Hi, I'm Jonier — Frontend Developer | CSS & Responsive Layout Fixes
+# 👋 Hi, I'm Jonier Pachón
 
-I'm a frontend web developer who helps businesses and individuals fix layout bugs, improve responsiveness, and polish user interfaces. I specialize in HTML, CSS, and JavaScript — making websites look great and work smoothly across all devices.
+**Frontend Developer** specializing in sleek, responsive landing pages with clean animations. I blend visual design and code to build elegant, high-performance user experiences — like my supercar-themed project **VELTORA**.
 
-### 🛠 What I Do
-- 🔧 Fix CSS layout bugs: navbars, forms, grids
-- 📱 Ensure responsiveness across devices
-- 💻 Clean up HTML and JavaScript for UI consistency
-- 🚀 Optimize images and assets for performance
+---
 
-### 💼 Selected Projects
-| Project | Description |
-|--------|-------------|
-| [**Personal Portfolio**](https://funny-rabanadas-625f53.netlify.app/) | A responsive site showcasing my projects and skills |
-| [**Browser Extension UI**](https://helpful-dango-eebb80.netlify.app/) | Frontend interface for managing extension settings |
-| [**Joke Generator App**](https://github.com/jonierpachon/random-joke-generator) | A small JavaScript app that pulls random jokes |
+## 🚀 About Me
+- 💻 I build luxury-style landing pages using **HTML**, **CSS**, and **JavaScript**
+- 🎨 Skilled in animations, smooth scrolling, and interactive galleries
+- 📱 Passionate about responsive design and polished UI/UX
+- 🌱 Continuously learning **Figma** to streamline design-to-code workflow
+- 📩 Open to freelance opportunities on Upwork 💼
 
-### 🏆 Why Work With Me
-I deliver fast, reliable frontend fixes with clear communication and attention to detail. My goal is clean designs that work seamlessly across platforms.
+---
 
-### 🔧 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+## 🛠 Tech & Tools
+- **Languages:** HTML5 | CSS3 | JavaScript (ES6+)
+- **Design & Animation:** Figma • SVG • CSS Transitions
+- **Layout:** Flexbox • CSS Grid • Responsive Breakpoints
+- **Deployment:** Netlify • Git & GitHub
+- **Next Up:** Learning React & TypeScript
 
-### 📫 Get in Touch
-- **Upwork:** [My Upwork Profile](https://www.upwork.com/freelancers/~01464b03b8977f4c4c?mp_source=share)
-- **Website:** [funny-rabanadas-625f53.netlify.app](https://funny-rabanadas-625f53.netlify.app/)
+---
+
+## ✨ Featured Projects
+
+### 🔥 **VELTORA – Precision in Motion**  
+- High-end landing page featuring smooth scroll, lightbox gallery, and interactive elements  
+- Built with semantic HTML, modular CSS, and vanilla JS  
+- 📍 [Live Demo](https://delicate-muffin-733873.netlify.app/) | 💾 [Code on GitHub](https://github.com/JonierPachon/VELTORA-Precision-in-Motion)
+
+### 🔧 **Frontend Mentor - Browser Extension Manager UI**
+Built a responsive browser extension manager using HTML, CSS, and vanilla JavaScript. Dynamically loaded JSON data, implemented dark/light mode toggle, and added scalable interactivity with addEventListener. Focused on clean UI, mobile-first design, and dynamic user feedback. This project sharpened my real-world frontend development skills.
+- 🌐 **Demo:** [Live on Netlify](https://helpful-dango-eebb80.netlify.app/)
+
+---
+
+## 📈 GitHub Stats
+<!-- You can customize or remove these -->
+![Jonier's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonierPachon&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact
+- ✉️ Email: jhonier.pachon1015@gmail.com  
+- 🌐 Portfolio: [funny-rabanadas-625f53.netlify.app](https://funny-rabanadas-625f53.netlify.app/)  
+- 💼 Upwork: [Your Upwork Profile](https://www.upwork.com/freelancers/~01464b03b8977f4c4c?mp_source=share
+)
+
+---
+
+_*This profile README serves as a visual resume to showcase my capabilities in building refined, interactive front-end experiences.*_
