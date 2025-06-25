@@ -30,8 +30,8 @@ _Frontend Developer_ specializing in sleek, responsive landing pages with clean 
 - 📍 [Live Demo](https://delicate-muffin-733873.netlify.app/) | 💾 [Code on GitHub](https://github.com/JonierPachon/VELTORA-Precision-in-Motion)
 - # 📸 Screenshots
 <p align="center">
-    <img src="https://github.com/JonierPachon/VELTORA-Precision-in-Motion/blob/main/pc.png" alt="My Image 1" width="650" style="margin: 0 10px;">
-    <img src="https://github.com/JonierPachon/VELTORA-Precision-in-Motion/blob/main/phone.png" alt="My Image 2" width="150" style="margin: 0 200px;">
+    <img src="https://github.com/JonierPachon/VELTORA-Precision-in-Motion/blob/main/pc.png" alt="My Image 1" width="600" style="margin: 0 10px;">
+    <img src="https://github.com/JonierPachon/VELTORA-Precision-in-Motion/blob/main/phone.png" alt="My Image 2" width="200" style="margin: 0 200px;">
 </p>
 
 ### 🔧 **Frontend Mentor - Browser Extension Manager UI**
@@ -39,8 +39,8 @@ Built a responsive browser extension manager using HTML, CSS, and vanilla JavaSc
 - 🌐 **Demo:** [Live on Netlify](https://helpful-dango-eebb80.netlify.app/)
 - # 📸 Screenshots
 <p align="center">
-    <img src="https://github.com/JonierPachon/frontendmentor-extension-manager/blob/main/pc1.png" alt="My Image 1" width="650" style="margin: 0 10px;">
-    <img src="https://github.com/JonierPachon/frontendmentor-extension-manager/blob/main/phone2.png" alt="My Image 2" width="150" style="margin: 0 200px;">
+    <img src="https://github.com/JonierPachon/frontendmentor-extension-manager/blob/main/pc1.png" alt="My Image 1" width="600" style="margin: 0 10px;">
+    <img src="https://github.com/JonierPachon/frontendmentor-extension-manager/blob/main/phone2.png" alt="My Image 2" width="200" style="margin: 0 200px;">
 </p>
 
 ---
